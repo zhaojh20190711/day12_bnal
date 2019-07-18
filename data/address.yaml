@@ -1,0 +1,17 @@
+post_address:
+  name: "张三"
+  phone: "13800001111"
+  province: "广东省"
+  city: "湛江市"
+  area: "坡头区"
+  info: "XXX大街108号"
+  code: "100080"
+put_address:
+  name: "王二"
+  phone: "13811112222"
+  province: "河北省"
+  city: "石家庄市"
+  area: "新华区"
+  info: "XXX大街208号"
+  code: "110888"
+  expect_toast: "保存成功"

@@ -1,0 +1,1039 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1563435451513" stop="1563435532976">
+  <name>test02_address</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1563435451513" status="passed" stop="1563435513660">
+      <name>TestAddress.test_post_address[\u5f20\u4e09-13800001111-\u5e7f\u4e1c\u7701-\u6e5b\u6c5f\u5e02-\u5761\u5934\u533a-XXX\u5927\u8857108\u53f7-100080]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="12872-MainThread"/>
+        <label name="host" value="DESKTOP-B9EF5LT"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1563435451515" status="passed" stop="1563435495411">
+          <name>正在初始化 setup_class</name>
+          <title>正在初始化 setup_class</title>
+          <attachments/>
+          <steps>
+            <step start="1563435451516" status="passed" stop="1563435476634">
+              <name>正在初始化获取driver对象</name>
+              <title>正在初始化获取driver对象</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1563435476634" status="passed" stop="1563435476634">
+              <name>正在获取PageLogin对象</name>
+              <title>正在获取PageLogin对象</title>
+              <attachments/>
+              <steps>
+                <step start="1563435476634" status="passed" stop="1563435476634">
+                  <name>正在 初始化 driver</name>
+                  <title>正在 初始化 driver</title>
+                  <attachments/>
+                  <steps/>
+                </step>
+              </steps>
+            </step>
+            <step start="1563435476634" status="passed" stop="1563435495410">
+              <name>调用 地址依赖登录业务方法、 </name>
+              <title>调用 地址依赖登录业务方法、 </title>
+              <attachments/>
+              <steps>
+                <step start="1563435476634" status="passed" stop="1563435483112">
+                  <name>正在点击 我</name>
+                  <title>正在点击 我</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563435476634" status="passed" stop="1563435483112">
+                      <name>正在 点击 操作</name>
+                      <title>正在 点击 操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563435476634" status="passed" stop="1563435483090">
+                          <name>正在查找元素</name>
+                          <title>正在查找元素</title>
+                          <attachments>
+                            <attachment source="6af9d661-c54b-4bc6-97ca-676b749f92a5-attachment.txt" title="查找的元素：" type="text/plain"/>
+                          </attachments>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563435483112" status="passed" stop="1563435486346">
+                  <name>正在点击 已有账号，去登录</name>
+                  <title>正在点击 已有账号，去登录</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563435483112" status="passed" stop="1563435486346">
+                      <name>正在 点击 操作</name>
+                      <title>正在 点击 操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563435483112" status="passed" stop="1563435485503">
+                          <name>正在查找元素</name>
+                          <title>正在查找元素</title>
+                          <attachments>
+                            <attachment source="b8d90b39-9714-4e22-a563-9d62cb9eae2f-attachment.txt" title="查找的元素：" type="text/plain"/>
+                          </attachments>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563435486346" status="passed" stop="1563435488044">
+                  <name>正在输入用户名</name>
+                  <title>正在输入用户名</title>
+                  <attachments>
+                    <attachment source="fd46fbc0-10d1-40dd-a7ee-0cc611b0ed3b-attachment.txt" title="用户名：" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1563435486346" status="passed" stop="1563435488044">
+                      <name>正在 输入操作</name>
+                      <title>正在 输入操作</title>
+                      <attachments>
+                        <attachment source="2780cbd9-0d2a-4860-b2e2-6807f66d0131-attachment.txt" title="给 ('id', 'com.yunmall.lc:id/logon_account_textview') 元素 输入：itheima值" type="text/plain"/>
+                      </attachments>
+                      <steps>
+                        <step start="1563435486346" status="passed" stop="1563435486991">
+                          <name>正在查找元素</name>
+                          <title>正在查找元素</title>
+                          <attachments>
+                            <attachment source="0e4ffcc5-a0a8-4bbf-b86b-bb83920984c7-attachment.txt" title="查找的元素：" type="text/plain"/>
+                          </attachments>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563435488044" status="passed" stop="1563435489094">
+                  <name>正在输入密码</name>
+                  <title>正在输入密码</title>
+                  <attachments>
+                    <attachment source="5c02b441-f6a8-4c58-8481-775fc11b2a03-attachment.txt" title="密码：" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1563435488044" status="passed" stop="1563435489094">
+                      <name>正在 输入操作</name>
+                      <title>正在 输入操作</title>
+                      <attachments>
+                        <attachment source="52ae3953-b967-45c6-8d9a-a3bf7643f521-attachment.txt" title="给 ('id', 'com.yunmall.lc:id/logon_password_textview') 元素 输入：123456值" type="text/plain"/>
+                      </attachments>
+                      <steps>
+                        <step start="1563435488044" status="passed" stop="1563435488556">
+                          <name>正在查找元素</name>
+                          <title>正在查找元素</title>
+                          <attachments>
+                            <attachment source="5e86f634-c551-4011-a76a-66fa092596c3-attachment.txt" title="查找的元素：" type="text/plain"/>
+                          </attachments>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563435489094" status="passed" stop="1563435489667">
+                  <name>正在 点击登录按钮</name>
+                  <title>正在 点击登录按钮</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563435489094" status="passed" stop="1563435489667">
+                      <name>正在 点击 操作</name>
+                      <title>正在 点击 操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563435489094" status="passed" stop="1563435489638">
+                          <name>正在查找元素</name>
+                          <title>正在查找元素</title>
+                          <attachments>
+                            <attachment source="33b66a39-94b2-459c-a1b9-77b6a50df629-attachment.txt" title="查找的元素：" type="text/plain"/>
+                          </attachments>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563435489667" status="passed" stop="1563435493230">
+                  <name>正在 点击设置</name>
+                  <title>正在 点击设置</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563435489667" status="passed" stop="1563435493230">
+                      <name>正在 点击 操作</name>
+                      <title>正在 点击 操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563435489667" status="passed" stop="1563435492715">
+                          <name>正在查找元素</name>
+                          <title>正在查找元素</title>
+                          <attachments>
+                            <attachment source="d151184f-cdbe-4593-94ab-6ad38870f39b-attachment.txt" title="查找的元素：" type="text/plain"/>
+                          </attachments>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563435493230" status="passed" stop="1563435495410">
+                  <name>正在 点击 操作</name>
+                  <title>正在 点击 操作</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563435493230" status="passed" stop="1563435495391">
+                      <name>正在查找元素</name>
+                      <title>正在查找元素</title>
+                      <attachments>
+                        <attachment source="d45d31b8-2a6f-4bae-a4ee-d0fb1bd8bfdb-attachment.txt" title="查找的元素：" type="text/plain"/>
+                      </attachments>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1563435495410" status="passed" stop="1563435495410">
+              <name>正在初始化获取driver对象</name>
+              <title>正在初始化获取driver对象</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1563435495410" status="passed" stop="1563435495411">
+              <name>正在获取PageAddress对象</name>
+              <title>正在获取PageAddress对象</title>
+              <attachments/>
+              <steps>
+                <step start="1563435495411" status="passed" stop="1563435495411">
+                  <name>正在 初始化 driver</name>
+                  <title>正在 初始化 driver</title>
+                  <attachments/>
+                  <steps/>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+        <step start="1563435495412" status="passed" stop="1563435513659">
+          <name>正在调用 新增地址测试用例</name>
+          <title>正在调用 新增地址测试用例</title>
+          <attachments/>
+          <steps>
+            <step start="1563435495412" status="passed" stop="1563435512257">
+              <name>新增 组合业务方法</name>
+              <title>新增 组合业务方法</title>
+              <attachments/>
+              <steps>
+                <step start="1563435495412" status="passed" stop="1563435497813">
+                  <name>点击 新增地址按钮</name>
+                  <title>点击 新增地址按钮</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563435495412" status="passed" stop="1563435497813">
+                      <name>正在 点击 操作</name>
+                      <title>正在 点击 操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563435495412" status="passed" stop="1563435497786">
+                          <name>正在查找元素</name>
+                          <title>正在查找元素</title>
+                          <attachments>
+                            <attachment source="d3730c0c-2917-4901-932a-6693802842b2-attachment.txt" title="查找的元素：" type="text/plain"/>
+                          </attachments>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563435497813" status="passed" stop="1563435510922">
+                  <name>填写地址信息 公共方法</name>
+                  <title>填写地址信息 公共方法</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563435497813" status="passed" stop="1563435501294">
+                      <name>输入收件人</name>
+                      <title>输入收件人</title>
+                      <attachments>
+                        <attachment source="33c0b824-77d2-441e-9616-789f2a90ade9-attachment.txt" title="收件人：张三" type="text/plain"/>
+                      </attachments>
+                      <steps>
+                        <step start="1563435497813" status="passed" stop="1563435501294">
+                          <name>正在 输入操作</name>
+                          <title>正在 输入操作</title>
+                          <attachments>
+                            <attachment source="cc3ad588-3e16-49c9-9919-162e1dc8efdb-attachment.txt" title="给 ('id', 'com.yunmall.lc:id/address_receipt_name') 元素 输入：张三值" type="text/plain"/>
+                          </attachments>
+                          <steps>
+                            <step start="1563435497813" status="passed" stop="1563435499347">
+                              <name>正在查找元素</name>
+                              <title>正在查找元素</title>
+                              <attachments>
+                                <attachment source="76ffb3fd-1773-424a-a66d-ffc0fc440be6-attachment.txt" title="查找的元素：" type="text/plain"/>
+                              </attachments>
+                              <steps/>
+                            </step>
+                          </steps>
+                        </step>
+                      </steps>
+                    </step>
+                    <step start="1563435501294" status="passed" stop="1563435502880">
+                      <name>输入收件人</name>
+                      <title>输入收件人</title>
+                      <attachments>
+                        <attachment source="c219dc2c-ea5d-4b28-b9a5-522ff9ef0d7e-attachment.txt" title="手机号：13800001111" type="text/plain"/>
+                      </attachments>
+                      <steps>
+                        <step start="1563435501294" status="passed" stop="1563435502880">
+                          <name>正在 输入操作</name>
+                          <title>正在 输入操作</title>
+                          <attachments>
+                            <attachment source="4b24bc97-31f7-40c1-ae9e-8136ecfdbc17-attachment.txt" title="给 ('id', 'com.yunmall.lc:id/address_add_phone') 元素 输入：13800001111值" type="text/plain"/>
+                          </attachments>
+                          <steps>
+                            <step start="1563435501294" status="passed" stop="1563435501817">
+                              <name>正在查找元素</name>
+                              <title>正在查找元素</title>
+                              <attachments>
+                                <attachment source="f2242502-1ea7-40b9-a323-69317443b738-attachment.txt" title="查找的元素：" type="text/plain"/>
+                              </attachments>
+                              <steps/>
+                            </step>
+                          </steps>
+                        </step>
+                      </steps>
+                    </step>
+                    <step start="1563435502880" status="passed" stop="1563435503425">
+                      <name>点击所在地区</name>
+                      <title>点击所在地区</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563435502880" status="passed" stop="1563435503425">
+                          <name>正在 点击 操作</name>
+                          <title>正在 点击 操作</title>
+                          <attachments/>
+                          <steps>
+                            <step start="1563435502880" status="passed" stop="1563435503392">
+                              <name>正在查找元素</name>
+                              <title>正在查找元素</title>
+                              <attachments>
+                                <attachment source="cdab013c-c45a-4d46-8c03-e2cd826626e0-attachment.txt" title="查找的元素：" type="text/plain"/>
+                              </attachments>
+                              <steps/>
+                            </step>
+                          </steps>
+                        </step>
+                      </steps>
+                    </step>
+                    <step start="1563435503425" status="passed" stop="1563435505872">
+                      <name>点击省</name>
+                      <title>点击省</title>
+                      <attachments>
+                        <attachment source="48e6cbc0-6b93-4d3a-b804-0cbe32fa3720-attachment.txt" title="正在点击：广东省 省" type="text/plain"/>
+                      </attachments>
+                      <steps>
+                        <step start="1563435503425" status="passed" stop="1563435505872">
+                          <name>根据文本点击元素</name>
+                          <title>根据文本点击元素</title>
+                          <attachments>
+                            <attachment source="110ef9a0-1bdb-40b3-90b3-0f540393943e-attachment.txt" title="查找元素中包含: 广东省 文字的元素，并进行点击" type="text/plain"/>
+                          </attachments>
+                          <steps>
+                            <step start="1563435503425" status="passed" stop="1563435505855">
+                              <name>正在查找元素</name>
+                              <title>正在查找元素</title>
+                              <attachments>
+                                <attachment source="77b3f52e-07bf-49ac-ad15-820b50cf9ebc-attachment.txt" title="查找的元素：" type="text/plain"/>
+                              </attachments>
+                              <steps/>
+                            </step>
+                          </steps>
+                        </step>
+                      </steps>
+                    </step>
+                    <step start="1563435505872" status="passed" stop="1563435506734">
+                      <name>点击市</name>
+                      <title>点击市</title>
+                      <attachments>
+                        <attachment source="9a26b678-6c78-44d6-9a27-0ed9e72712b3-attachment.txt" title="正在点击：湛江市 市" type="text/plain"/>
+                      </attachments>
+                      <steps>
+                        <step start="1563435505872" status="passed" stop="1563435506734">
+                          <name>根据文本点击元素</name>
+                          <title>根据文本点击元素</title>
+                          <attachments>
+                            <attachment source="005279e7-386d-4803-a5c8-5d5fe8d88715-attachment.txt" title="查找元素中包含: 湛江市 文字的元素，并进行点击" type="text/plain"/>
+                          </attachments>
+                          <steps>
+                            <step start="1563435505872" status="passed" stop="1563435506719">
+                              <name>正在查找元素</name>
+                              <title>正在查找元素</title>
+                              <attachments>
+                                <attachment source="dd3589fd-2b93-4d2e-a100-fb7ee63156bf-attachment.txt" title="查找的元素：" type="text/plain"/>
+                              </attachments>
+                              <steps/>
+                            </step>
+                          </steps>
+                        </step>
+                      </steps>
+                    </step>
+                    <step start="1563435506734" status="passed" stop="1563435507656">
+                      <name>点击区/县/市</name>
+                      <title>点击区/县/市</title>
+                      <attachments>
+                        <attachment source="13d76cb9-0877-4eaa-99f6-f2030e8b47b8-attachment.txt" title="正在点击：坡头区 区/县/市" type="text/plain"/>
+                      </attachments>
+                      <steps>
+                        <step start="1563435506734" status="passed" stop="1563435507656">
+                          <name>根据文本点击元素</name>
+                          <title>根据文本点击元素</title>
+                          <attachments>
+                            <attachment source="927ad53a-cad4-4ff2-9fe2-a726d8c386a5-attachment.txt" title="查找元素中包含: 坡头区 文字的元素，并进行点击" type="text/plain"/>
+                          </attachments>
+                          <steps>
+                            <step start="1563435506734" status="passed" stop="1563435507617">
+                              <name>正在查找元素</name>
+                              <title>正在查找元素</title>
+                              <attachments>
+                                <attachment source="0c8b6fe9-8c0f-427a-afc1-3b19fcac6ebf-attachment.txt" title="查找的元素：" type="text/plain"/>
+                              </attachments>
+                              <steps/>
+                            </step>
+                          </steps>
+                        </step>
+                      </steps>
+                    </step>
+                    <step start="1563435507656" status="passed" stop="1563435509353">
+                      <name>正在输入详细地址</name>
+                      <title>正在输入详细地址</title>
+                      <attachments>
+                        <attachment source="ba15ff88-2f8b-4208-8f55-02bfdfcbd644-attachment.txt" title="正在输入详细地址：XXX大街108号" type="text/plain"/>
+                      </attachments>
+                      <steps>
+                        <step start="1563435507656" status="passed" stop="1563435509353">
+                          <name>正在 输入操作</name>
+                          <title>正在 输入操作</title>
+                          <attachments>
+                            <attachment source="5b9894b4-c0f0-400d-aeb9-c14891585e84-attachment.txt" title="给 ('id', 'com.yunmall.lc:id/address_detail_addr_info') 元素 输入：XXX大街108号值" type="text/plain"/>
+                          </attachments>
+                          <steps>
+                            <step start="1563435507656" status="passed" stop="1563435508276">
+                              <name>正在查找元素</name>
+                              <title>正在查找元素</title>
+                              <attachments>
+                                <attachment source="b8016b35-2a26-4485-9bb0-579c2b1ae66e-attachment.txt" title="查找的元素：" type="text/plain"/>
+                              </attachments>
+                              <steps/>
+                            </step>
+                          </steps>
+                        </step>
+                      </steps>
+                    </step>
+                    <step start="1563435509353" status="passed" stop="1563435510922">
+                      <name>正在输入 邮编</name>
+                      <title>正在输入 邮编</title>
+                      <attachments>
+                        <attachment source="4813b8f7-225f-4121-8bc1-7adcf46cc010-attachment.txt" title="正在输入邮编：100080" type="text/plain"/>
+                      </attachments>
+                      <steps>
+                        <step start="1563435509354" status="passed" stop="1563435510922">
+                          <name>正在 输入操作</name>
+                          <title>正在 输入操作</title>
+                          <attachments>
+                            <attachment source="13cf285d-be39-4d58-959a-c7432c284f43-attachment.txt" title="给 ('id', 'com.yunmall.lc:id/address_post_code') 元素 输入：100080值" type="text/plain"/>
+                          </attachments>
+                          <steps>
+                            <step start="1563435509354" status="passed" stop="1563435509858">
+                              <name>正在查找元素</name>
+                              <title>正在查找元素</title>
+                              <attachments>
+                                <attachment source="22a7cc02-a9fe-4b8d-bd1d-3d034572a260-attachment.txt" title="查找的元素：" type="text/plain"/>
+                              </attachments>
+                              <steps/>
+                            </step>
+                          </steps>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563435510922" status="passed" stop="1563435511725">
+                  <name>正在点击 设为默认地址</name>
+                  <title>正在点击 设为默认地址</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563435510922" status="passed" stop="1563435511725">
+                      <name>正在 点击 操作</name>
+                      <title>正在 点击 操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563435510922" status="passed" stop="1563435510985">
+                          <name>正在查找元素</name>
+                          <title>正在查找元素</title>
+                          <attachments>
+                            <attachment source="ecd98a09-c612-4208-a452-893383191635-attachment.txt" title="查找的元素：" type="text/plain"/>
+                          </attachments>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563435511725" status="passed" stop="1563435512257">
+                  <name>正在点击 保存</name>
+                  <title>正在点击 保存</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563435511725" status="passed" stop="1563435512257">
+                      <name>正在 点击 操作</name>
+                      <title>正在 点击 操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563435511725" status="passed" stop="1563435511834">
+                          <name>正在查找元素</name>
+                          <title>正在查找元素</title>
+                          <attachments>
+                            <attachment source="5b3be7eb-1d4b-4362-99ea-030aab001862-attachment.txt" title="查找的元素：" type="text/plain"/>
+                          </attachments>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1563435512257" status="passed" stop="1563435513607">
+              <name>获取地址列表 所有收件人姓名和电话</name>
+              <title>获取地址列表 所有收件人姓名和电话</title>
+              <attachments/>
+              <steps>
+                <step start="1563435512257" status="passed" stop="1563435513580">
+                  <name>正在查找元素</name>
+                  <title>正在查找元素</title>
+                  <attachments>
+                    <attachment source="eeb40c35-70b2-4c5d-8555-fa2b499ef87c-attachment.txt" title="查找的元素：" type="text/plain"/>
+                  </attachments>
+                  <steps/>
+                </step>
+              </steps>
+            </step>
+            <step start="1563435513607" status="passed" stop="1563435513659">
+              <name>获取地址列表 所有地址信息</name>
+              <title>获取地址列表 所有地址信息</title>
+              <attachments/>
+              <steps>
+                <step start="1563435513607" status="passed" stop="1563435513649">
+                  <name>正在查找元素</name>
+                  <title>正在查找元素</title>
+                  <attachments>
+                    <attachment source="209d5068-9503-4d82-b5d3-7dc7677e23cd-attachment.txt" title="查找的元素：" type="text/plain"/>
+                  </attachments>
+                  <steps/>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1563435513710" status="passed" stop="1563435528573">
+      <name>TestAddress.test_put_address[\u738b\u4e8c-13811112222-\u6cb3\u5317\u7701-\u77f3\u5bb6\u5e84\u5e02-\u65b0\u534e\u533a-XXX\u5927\u8857208\u53f7-110888-\u4fdd\u5b58\u6210\u529f]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="12872-MainThread"/>
+        <label name="host" value="DESKTOP-B9EF5LT"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1563435513711" status="passed" stop="1563435528573">
+          <name>正在调用 修改地址测试用例</name>
+          <title>正在调用 修改地址测试用例</title>
+          <attachments/>
+          <steps>
+            <step start="1563435513711" status="passed" stop="1563435527386">
+              <name>修改 组合业务方法</name>
+              <title>修改 组合业务方法</title>
+              <attachments/>
+              <steps>
+                <step start="1563435513711" status="passed" stop="1563435513762">
+                  <name>点击 编辑按钮</name>
+                  <title>点击 编辑按钮</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563435513711" status="passed" stop="1563435513762">
+                      <name>正在 点击 操作</name>
+                      <title>正在 点击 操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563435513711" status="passed" stop="1563435513748">
+                          <name>正在查找元素</name>
+                          <title>正在查找元素</title>
+                          <attachments>
+                            <attachment source="5ae526fa-33da-46ab-8115-832a43a162f4-attachment.txt" title="查找的元素：" type="text/plain"/>
+                          </attachments>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563435513762" status="passed" stop="1563435514460">
+                  <name>点击 修改按钮</name>
+                  <title>点击 修改按钮</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563435513762" status="passed" stop="1563435514460">
+                      <name>正在 点击 操作</name>
+                      <title>正在 点击 操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563435513762" status="passed" stop="1563435513824">
+                          <name>正在查找元素</name>
+                          <title>正在查找元素</title>
+                          <attachments>
+                            <attachment source="488a24cb-dc9f-417a-9203-db5a3dbc9bb8-attachment.txt" title="查找的元素：" type="text/plain"/>
+                          </attachments>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563435514460" status="passed" stop="1563435526874">
+                  <name>填写地址信息 公共方法</name>
+                  <title>填写地址信息 公共方法</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563435514460" status="passed" stop="1563435517343">
+                      <name>输入收件人</name>
+                      <title>输入收件人</title>
+                      <attachments>
+                        <attachment source="1407ef34-e0fa-4286-9a01-af6c5b9dd16d-attachment.txt" title="收件人：王二" type="text/plain"/>
+                      </attachments>
+                      <steps>
+                        <step start="1563435514460" status="passed" stop="1563435517343">
+                          <name>正在 输入操作</name>
+                          <title>正在 输入操作</title>
+                          <attachments>
+                            <attachment source="57c720d1-6e72-4c82-9f44-fde8709cd7a7-attachment.txt" title="给 ('id', 'com.yunmall.lc:id/address_receipt_name') 元素 输入：王二值" type="text/plain"/>
+                          </attachments>
+                          <steps>
+                            <step start="1563435514460" status="passed" stop="1563435516262">
+                              <name>正在查找元素</name>
+                              <title>正在查找元素</title>
+                              <attachments>
+                                <attachment source="a61b4f20-6c42-4534-ad40-3d05424c239f-attachment.txt" title="查找的元素：" type="text/plain"/>
+                              </attachments>
+                              <steps/>
+                            </step>
+                          </steps>
+                        </step>
+                      </steps>
+                    </step>
+                    <step start="1563435517343" status="passed" stop="1563435518917">
+                      <name>输入收件人</name>
+                      <title>输入收件人</title>
+                      <attachments>
+                        <attachment source="b03d546a-7ec5-436c-86b5-b02ff89cab7d-attachment.txt" title="手机号：13811112222" type="text/plain"/>
+                      </attachments>
+                      <steps>
+                        <step start="1563435517343" status="passed" stop="1563435518917">
+                          <name>正在 输入操作</name>
+                          <title>正在 输入操作</title>
+                          <attachments>
+                            <attachment source="83f9d4c8-6c67-44c5-9678-4ddf35a9acbe-attachment.txt" title="给 ('id', 'com.yunmall.lc:id/address_add_phone') 元素 输入：13811112222值" type="text/plain"/>
+                          </attachments>
+                          <steps>
+                            <step start="1563435517343" status="passed" stop="1563435517414">
+                              <name>正在查找元素</name>
+                              <title>正在查找元素</title>
+                              <attachments>
+                                <attachment source="2f881054-4775-495c-b54a-c4fc94ac5d70-attachment.txt" title="查找的元素：" type="text/plain"/>
+                              </attachments>
+                              <steps/>
+                            </step>
+                          </steps>
+                        </step>
+                      </steps>
+                    </step>
+                    <step start="1563435518917" status="passed" stop="1563435519456">
+                      <name>点击所在地区</name>
+                      <title>点击所在地区</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563435518917" status="passed" stop="1563435519456">
+                          <name>正在 点击 操作</name>
+                          <title>正在 点击 操作</title>
+                          <attachments/>
+                          <steps>
+                            <step start="1563435518917" status="passed" stop="1563435519413">
+                              <name>正在查找元素</name>
+                              <title>正在查找元素</title>
+                              <attachments>
+                                <attachment source="ca905c6a-96b1-4ff7-b9d2-2fd9408c95b5-attachment.txt" title="查找的元素：" type="text/plain"/>
+                              </attachments>
+                              <steps/>
+                            </step>
+                          </steps>
+                        </step>
+                      </steps>
+                    </step>
+                    <step start="1563435519456" status="passed" stop="1563435521876">
+                      <name>点击省</name>
+                      <title>点击省</title>
+                      <attachments>
+                        <attachment source="772e290b-e230-490f-be1d-d6a294c6e853-attachment.txt" title="正在点击：河北省 省" type="text/plain"/>
+                      </attachments>
+                      <steps>
+                        <step start="1563435519456" status="passed" stop="1563435521876">
+                          <name>根据文本点击元素</name>
+                          <title>根据文本点击元素</title>
+                          <attachments>
+                            <attachment source="18a8a8f0-4500-46ea-8ebf-d5fde7a4d2b7-attachment.txt" title="查找元素中包含: 河北省 文字的元素，并进行点击" type="text/plain"/>
+                          </attachments>
+                          <steps>
+                            <step start="1563435519456" status="passed" stop="1563435521853">
+                              <name>正在查找元素</name>
+                              <title>正在查找元素</title>
+                              <attachments>
+                                <attachment source="5bda1db4-618c-434a-bf50-90b482be290c-attachment.txt" title="查找的元素：" type="text/plain"/>
+                              </attachments>
+                              <steps/>
+                            </step>
+                          </steps>
+                        </step>
+                      </steps>
+                    </step>
+                    <step start="1563435521876" status="passed" stop="1563435522786">
+                      <name>点击市</name>
+                      <title>点击市</title>
+                      <attachments>
+                        <attachment source="31d31611-f87f-48f5-9bac-db63de64c420-attachment.txt" title="正在点击：石家庄市 市" type="text/plain"/>
+                      </attachments>
+                      <steps>
+                        <step start="1563435521876" status="passed" stop="1563435522786">
+                          <name>根据文本点击元素</name>
+                          <title>根据文本点击元素</title>
+                          <attachments>
+                            <attachment source="2eb7be0e-1b62-43c1-9582-637564ddfaf7-attachment.txt" title="查找元素中包含: 石家庄市 文字的元素，并进行点击" type="text/plain"/>
+                          </attachments>
+                          <steps>
+                            <step start="1563435521876" status="passed" stop="1563435522733">
+                              <name>正在查找元素</name>
+                              <title>正在查找元素</title>
+                              <attachments>
+                                <attachment source="5c525060-92ba-4f50-be95-27f8c0899f29-attachment.txt" title="查找的元素：" type="text/plain"/>
+                              </attachments>
+                              <steps/>
+                            </step>
+                          </steps>
+                        </step>
+                      </steps>
+                    </step>
+                    <step start="1563435522787" status="passed" stop="1563435523610">
+                      <name>点击区/县/市</name>
+                      <title>点击区/县/市</title>
+                      <attachments>
+                        <attachment source="62ff1bff-b025-446e-8e7b-51a91f4573e6-attachment.txt" title="正在点击：新华区 区/县/市" type="text/plain"/>
+                      </attachments>
+                      <steps>
+                        <step start="1563435522787" status="passed" stop="1563435523610">
+                          <name>根据文本点击元素</name>
+                          <title>根据文本点击元素</title>
+                          <attachments>
+                            <attachment source="7826b566-e74d-4a20-bd81-95ee98ddfa1d-attachment.txt" title="查找元素中包含: 新华区 文字的元素，并进行点击" type="text/plain"/>
+                          </attachments>
+                          <steps>
+                            <step start="1563435522787" status="passed" stop="1563435523587">
+                              <name>正在查找元素</name>
+                              <title>正在查找元素</title>
+                              <attachments>
+                                <attachment source="5ba72e85-7175-45ad-8d30-ecb14ec85f89-attachment.txt" title="查找的元素：" type="text/plain"/>
+                              </attachments>
+                              <steps/>
+                            </step>
+                          </steps>
+                        </step>
+                      </steps>
+                    </step>
+                    <step start="1563435523610" status="passed" stop="1563435525290">
+                      <name>正在输入详细地址</name>
+                      <title>正在输入详细地址</title>
+                      <attachments>
+                        <attachment source="e7baabc0-3b17-4585-8760-e3332a5fbd8b-attachment.txt" title="正在输入详细地址：XXX大街208号" type="text/plain"/>
+                      </attachments>
+                      <steps>
+                        <step start="1563435523610" status="passed" stop="1563435525290">
+                          <name>正在 输入操作</name>
+                          <title>正在 输入操作</title>
+                          <attachments>
+                            <attachment source="d3fd56d2-49e2-4e94-842f-02ef38ce6cb7-attachment.txt" title="给 ('id', 'com.yunmall.lc:id/address_detail_addr_info') 元素 输入：XXX大街208号值" type="text/plain"/>
+                          </attachments>
+                          <steps>
+                            <step start="1563435523610" status="passed" stop="1563435524223">
+                              <name>正在查找元素</name>
+                              <title>正在查找元素</title>
+                              <attachments>
+                                <attachment source="bebb131d-f04d-4216-b465-b0f5188d2f53-attachment.txt" title="查找的元素：" type="text/plain"/>
+                              </attachments>
+                              <steps/>
+                            </step>
+                          </steps>
+                        </step>
+                      </steps>
+                    </step>
+                    <step start="1563435525291" status="passed" stop="1563435526874">
+                      <name>正在输入 邮编</name>
+                      <title>正在输入 邮编</title>
+                      <attachments>
+                        <attachment source="10787fda-29e8-49f9-8f64-4bde7e47ec40-attachment.txt" title="正在输入邮编：110888" type="text/plain"/>
+                      </attachments>
+                      <steps>
+                        <step start="1563435525291" status="passed" stop="1563435526874">
+                          <name>正在 输入操作</name>
+                          <title>正在 输入操作</title>
+                          <attachments>
+                            <attachment source="4267d5d1-ae5d-4149-a7d1-3c3d7153102d-attachment.txt" title="给 ('id', 'com.yunmall.lc:id/address_post_code') 元素 输入：110888值" type="text/plain"/>
+                          </attachments>
+                          <steps>
+                            <step start="1563435525291" status="passed" stop="1563435525809">
+                              <name>正在查找元素</name>
+                              <title>正在查找元素</title>
+                              <attachments>
+                                <attachment source="0fa53c48-55c0-46e7-9109-c02a560b3a47-attachment.txt" title="查找的元素：" type="text/plain"/>
+                              </attachments>
+                              <steps/>
+                            </step>
+                          </steps>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563435526874" status="passed" stop="1563435527386">
+                  <name>正在点击 保存</name>
+                  <title>正在点击 保存</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563435526874" status="passed" stop="1563435527386">
+                      <name>正在 点击 操作</name>
+                      <title>正在 点击 操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563435526874" status="passed" stop="1563435526939">
+                          <name>正在查找元素</name>
+                          <title>正在查找元素</title>
+                          <attachments>
+                            <attachment source="6440be7d-2d26-4b2a-bce3-54c745d4258e-attachment.txt" title="查找的元素：" type="text/plain"/>
+                          </attachments>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1563435527386" status="passed" stop="1563435528443">
+              <name>获取修改 toast信息</name>
+              <title>获取修改 toast信息</title>
+              <attachments/>
+              <steps>
+                <step start="1563435527386" status="passed" stop="1563435528443">
+                  <name>正在 获取toast消息操作</name>
+                  <title>正在 获取toast消息操作</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563435527386" status="passed" stop="1563435528430">
+                      <name>正在查找元素</name>
+                      <title>正在查找元素</title>
+                      <attachments>
+                        <attachment source="d2f6eff8-5aa7-42b3-a6f8-0e2ca6c23558-attachment.txt" title="查找的元素：" type="text/plain"/>
+                      </attachments>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1563435528443" status="passed" stop="1563435528509">
+              <name>获取地址列表 所有收件人姓名和电话</name>
+              <title>获取地址列表 所有收件人姓名和电话</title>
+              <attachments/>
+              <steps>
+                <step start="1563435528443" status="passed" stop="1563435528496">
+                  <name>正在查找元素</name>
+                  <title>正在查找元素</title>
+                  <attachments>
+                    <attachment source="467ce3e8-e7f8-4e0f-8778-7b8450d3cda2-attachment.txt" title="查找的元素：" type="text/plain"/>
+                  </attachments>
+                  <steps/>
+                </step>
+              </steps>
+            </step>
+            <step start="1563435528509" status="passed" stop="1563435528573">
+              <name>获取地址列表 所有地址信息</name>
+              <title>获取地址列表 所有地址信息</title>
+              <attachments/>
+              <steps>
+                <step start="1563435528509" status="passed" stop="1563435528559">
+                  <name>正在查找元素</name>
+                  <title>正在查找元素</title>
+                  <attachments>
+                    <attachment source="5ad19bb4-0292-487e-8caa-f361d065054e-attachment.txt" title="查找的元素：" type="text/plain"/>
+                  </attachments>
+                  <steps/>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1563435528615" status="passed" stop="1563435532976">
+      <name>TestAddress.test_delete_address</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="12872-MainThread"/>
+        <label name="host" value="DESKTOP-B9EF5LT"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1563435528615" status="passed" stop="1563435532976">
+          <name>正在调用 删除地址测试用例</name>
+          <title>正在调用 删除地址测试用例</title>
+          <attachments/>
+          <steps>
+            <step start="1563435528615" status="passed" stop="1563435530457">
+              <name>删除 组合业务方法</name>
+              <title>删除 组合业务方法</title>
+              <attachments/>
+              <steps>
+                <step start="1563435528615" status="passed" stop="1563435528660">
+                  <name>获取地址列表 所有收件人姓名和电话</name>
+                  <title>获取地址列表 所有收件人姓名和电话</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563435528615" status="passed" stop="1563435528649">
+                      <name>正在查找元素</name>
+                      <title>正在查找元素</title>
+                      <attachments>
+                        <attachment source="b51a890d-0660-4a5e-a452-2b7271c4d159-attachment.txt" title="查找的元素：" type="text/plain"/>
+                      </attachments>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563435528660" status="passed" stop="1563435528728">
+                  <name>点击 编辑按钮</name>
+                  <title>点击 编辑按钮</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563435528660" status="passed" stop="1563435528728">
+                      <name>正在 点击 操作</name>
+                      <title>正在 点击 操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563435528660" status="passed" stop="1563435528694">
+                          <name>正在查找元素</name>
+                          <title>正在查找元素</title>
+                          <attachments>
+                            <attachment source="092e26eb-537b-41f0-acd3-d6bdf16c03aa-attachment.txt" title="查找的元素：" type="text/plain"/>
+                          </attachments>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563435528728" status="passed" stop="1563435529408">
+                  <name>点击 删除按钮</name>
+                  <title>点击 删除按钮</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563435528728" status="passed" stop="1563435529408">
+                      <name>正在 点击 操作</name>
+                      <title>正在 点击 操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563435528728" status="passed" stop="1563435528793">
+                          <name>正在查找元素</name>
+                          <title>正在查找元素</title>
+                          <attachments>
+                            <attachment source="4404756e-8338-41f4-93b7-6e865c934143-attachment.txt" title="查找的元素：" type="text/plain"/>
+                          </attachments>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563435529408" status="passed" stop="1563435530457">
+                  <name>点击 确认删除</name>
+                  <title>点击 确认删除</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563435529408" status="passed" stop="1563435530456">
+                      <name>正在 点击 操作</name>
+                      <title>正在 点击 操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563435529408" status="passed" stop="1563435530410">
+                          <name>正在查找元素</name>
+                          <title>正在查找元素</title>
+                          <attachments>
+                            <attachment source="709980be-df97-46e3-8809-3a30dabacc13-attachment.txt" title="查找的元素：" type="text/plain"/>
+                          </attachments>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1563435530457" status="passed" stop="1563435532976">
+              <name>判断地址列表中 是否还有地址</name>
+              <title>判断地址列表中 是否还有地址</title>
+              <attachments/>
+              <steps>
+                <step start="1563435530457" status="failed" stop="1563435532976">
+                  <name>正在查找元素</name>
+                  <title>正在查找元素</title>
+                  <attachments>
+                    <attachment source="98f42dcc-168e-49f6-b642-95b181f5f2e4-attachment.txt" title="查找的元素：" type="text/plain"/>
+                  </attachments>
+                  <steps/>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+        <step start="1563435532976" status="passed" stop="1563435534367">
+          <name>正在调用 teardown_class</name>
+          <title>正在调用 teardown_class</title>
+          <attachments/>
+          <steps>
+            <step start="1563435532976" status="passed" stop="1563435534367">
+              <name>正在关闭driver对象</name>
+              <title>正在关闭driver对象</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

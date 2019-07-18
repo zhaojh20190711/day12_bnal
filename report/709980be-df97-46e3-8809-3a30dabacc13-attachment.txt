@@ -1,0 +1,1 @@
+('id', 'com.yunmall.lc:id/ymdialog_left_button')

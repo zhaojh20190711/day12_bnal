@@ -1,0 +1,1 @@
+('xpath', "//*[contains(@text, '此用户不存在')]")

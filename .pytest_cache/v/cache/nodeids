@@ -1,0 +1,13 @@
+[
+  "scripts/test01_login.py::TestLogin::()::test_login[18610453007-123456-itheima-None]",
+  "scripts/test01_login.py::TestLogin::()::test_login[ 18610453007 -123456-itheima-None]",
+  "scripts/test01_login.py::TestLogin::()::test_login[itheima-123456-itheima-None]",
+  "scripts/test01_login.py::TestLogin::()::test_login[ itheima -123456-itheima-None]",
+  "scripts/test01_login.py::TestLogin::()::test_login[186104530077-123456-None-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728]",
+  "scripts/test01_login.py::TestLogin::()::test_login[18610453008-123456-None-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728]",
+  "scripts/test01_login.py::TestLogin::()::test_login[18610453007-1234567-None-\\u767b\\u5f55\\u5bc6\\u7801\\u9519\\u8bef]",
+  "scripts/test01_login.py::TestLogin::()::test_login[itheimaa-123456-None-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728]",
+  "scripts/test02_address.py::TestAddress::()::test_post_address[\\u5f20\\u4e09-13800001111-\\u5e7f\\u4e1c\\u7701-\\u6e5b\\u6c5f\\u5e02-\\u5761\\u5934\\u533a-XXX\\u5927\\u8857108\\u53f7-100080]",
+  "scripts/test02_address.py::TestAddress::()::test_put_address[\\u738b\\u4e8c-13811112222-\\u6cb3\\u5317\\u7701-\\u77f3\\u5bb6\\u5e84\\u5e02-\\u65b0\\u534e\\u533a-XXX\\u5927\\u8857208\\u53f7-110888-\\u4fdd\\u5b58\\u6210\\u529f]",
+  "scripts/test02_address.py::TestAddress::()::test_delete_address"
+]
