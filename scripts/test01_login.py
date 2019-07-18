@@ -22,7 +22,7 @@ def get_data():
 class TestLogin():
     # 初始化
     def setup_class(self):
-        # 获取PageLogin对象
+        # 获取 PageLogin 对象
         self.pagein = PageIn()
         # 调用登录
         self.login = self.pagein.page_get_PageLogin()
